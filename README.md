@@ -1,4 +1,4 @@
-# Figma MCP Server Extension for Zed
+# Framelink Figma MCP Server Extension for Zed
 
 This extension integrates [Framelink Figma MCP Server](https://github.com/GLips/Figma-Context-MCP)
 as a context server for Zed's Assistant.
